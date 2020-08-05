@@ -25,4 +25,4 @@
     官网：https://www.bytls.com/
     api地址1: http://api.bytls.com/api_box.php
     api地址2: https://api.bytls.com/api_box.php
-    
+    youtube演示：https://www.youtube.com/watch?v=nJ5uq0oG45g
