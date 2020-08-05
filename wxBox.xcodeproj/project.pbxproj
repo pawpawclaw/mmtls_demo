@@ -344,14 +344,14 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				HEADER_SEARCH_PATHS = "/Users/armsribo/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
+				HEADER_SEARCH_PATHS = "/Users/public/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
 				INFOPLIST_FILE = wxBox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = (
-					"/Users/armsribo/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/lib/**",
+					"/Users/public/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/lib/**",
 					"$(PROJECT_DIR)/OpenSSL/lib",
 				);
 				OTHER_CFLAGS = "";
@@ -360,7 +360,7 @@
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/$(TARGET_NAME)/**";
 				SWIFT_VERSION = 5.0;
-				USER_HEADER_SEARCH_PATHS = "/Users/armsribo/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
+				USER_HEADER_SEARCH_PATHS = "/Users/public/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
 			};
 			name = Debug;
 		};
@@ -377,14 +377,14 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				HEADER_SEARCH_PATHS = "/Users/armsribo/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
+				HEADER_SEARCH_PATHS = "/Users/public/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
 				INFOPLIST_FILE = wxBox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = (
-					"/Users/armsribo/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/lib/**",
+					"/Users/public/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/lib/**",
 					"$(PROJECT_DIR)/OpenSSL/lib",
 				);
 				OTHER_CFLAGS = "";
@@ -393,7 +393,7 @@
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/$(TARGET_NAME)/**";
 				SWIFT_VERSION = 5.0;
-				USER_HEADER_SEARCH_PATHS = "/Users/armsribo/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
+				USER_HEADER_SEARCH_PATHS = "/Users/public/Documents/source/proj/test_layout/layout_test/macos_layout/OpenSSL/include/**";
 			};
 			name = Release;
 		};
