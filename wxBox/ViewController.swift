@@ -165,7 +165,9 @@ class ViewController: NSViewController,deleRegister {
         super.viewDidLoad()
         
         // 测试时你可以将appkey access_token secret gcmkey等信息输入到这里，这样你就无需每次打开软件都要输入一遍。
-        tAppKey.stringValue = "55503381"
+        // 以下内容请输入自己在bytls.com账户中申请的应用，请勿直接使用下面的，因为不存在。
+        // 请搜索所有2691这个seq数字，并替换成你自己的seq，在网页账户中可以看到。
+        tAppKey.stringValue = "55500000"
         tAccessToken.stringValue = "ba363c3a631e54f8528c562fe699fccb911267d5024408893b33d660f631b246"
         tSecret.stringValue = "d9c209ae2aae808cdddc9d9dfbedacebf22a8241bbb01e0792983870add0a8e7"
         tGCMKey.stringValue = "e46877a8bd21dcaa3faa6371fb3b68ef"
