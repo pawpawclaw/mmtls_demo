@@ -1,0 +1,4 @@
+/// Expose OpenSSL for extraneous Swift usage
+module OpenSSL {
+    header "ossl.h"
+}
